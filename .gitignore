@@ -1,0 +1,12 @@
+bin
+.Python
+build
+build_*
+_build
+include
+lib
+.DS_Store
+pyvenv.cfg
+._*
+share
+venv_*
